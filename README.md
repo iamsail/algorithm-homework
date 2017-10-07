@@ -27,8 +27,10 @@
 - **受能力所限,不一定每一题都能给出题解,没有做出来的题目,会在以下列表中特别标注。**
 
 ## 第一周
-- 判断日期是否符合格式
-- 判断字符串是否是手机号码
+标题|题目|答案
+-|-|-
+- 判断日期是否符合格式|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%88%A4%E6%96%AD%E6%97%A5%E6%9C%9F%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E6%A0%BC%E5%BC%8F.md)|[答案]()
+- 判断字符串是否是手机号码|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%98%AF%E5%90%A6%E6%98%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81.md)|[答案]()
 - 求出现次数最多的字符
 - 英文金曲大赛
 - 汽水瓶
