@@ -29,16 +29,16 @@
 ## 第一周
 标题|题目|答案
 -|-|-
-判断日期是否符合格式|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%88%A4%E6%96%AD%E6%97%A5%E6%9C%9F%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E6%A0%BC%E5%BC%8F.md)|[答案]()
-判断字符串是否是手机号码|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%98%AF%E5%90%A6%E6%98%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81.md)|[答案]()
-求出现次数最多的字符|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%B1%82%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AD%97%E7%AC%A6.md)|[待更新]()
-英文金曲大赛|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E8%8B%B1%E6%96%87%E9%87%91%E6%9B%B2%E5%A4%A7%E8%B5%9B.md)|[待更新]()
-汽水瓶|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%B1%BD%E6%B0%B4%E7%93%B6.md)|[待更新]()
-进制转换|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.md)|[待更新]()
-局部求合|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%B1%80%E9%83%A8%E6%B1%82%E5%90%88.md)|[待更新]()
-易彰彪的一张表|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%98%93%E5%BD%B0%E5%BD%AA%E7%9A%84%E4%B8%80%E5%BC%A0%E8%A1%A8.md)|[待更新]()
-单词排序|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%8D%95%E8%AF%8D%E6%8E%92%E5%BA%8F.md)|[待更新]()
-扫雷游戏|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%89%AB%E9%9B%B7%E6%B8%B8%E6%88%8F.md)|[待更新]()
+判断日期是否符合格式|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%88%A4%E6%96%AD%E6%97%A5%E6%9C%9F%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E6%A0%BC%E5%BC%8F.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E5%88%A4%E6%96%AD%E6%97%A5%E6%9C%9F%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E6%A0%BC%E5%BC%8F.cpp)
+判断字符串是否是手机号码|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%98%AF%E5%90%A6%E6%98%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%98%AF%E5%90%A6%E6%98%AF%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81.cpp)
+求出现次数最多的字符|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%B1%82%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AD%97%E7%AC%A6.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E6%B1%82%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AD%97%E7%AC%A6.cpp)
+英文金曲大赛|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E8%8B%B1%E6%96%87%E9%87%91%E6%9B%B2%E5%A4%A7%E8%B5%9B.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E8%8B%B1%E6%96%87%E9%87%91%E6%9B%B2%E5%A4%A7%E8%B5%9B.cpp)
+汽水瓶|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%B1%BD%E6%B0%B4%E7%93%B6.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E6%B1%BD%E6%B0%B4%E7%93%B6.cpp)
+进制转换|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.cpp)
+局部求合|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%B1%80%E9%83%A8%E6%B1%82%E5%90%88.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E5%B1%80%E9%83%A8%E6%B1%82%E5%90%88.cpp)
+易彰彪的一张表|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%98%93%E5%BD%B0%E5%BD%AA%E7%9A%84%E4%B8%80%E5%BC%A0%E8%A1%A8.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E6%98%93%E5%BD%B0%E5%BD%AA%E7%9A%84%E4%B8%80%E5%BC%A0%E8%A1%A8.cpp)
+单词排序|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%8D%95%E8%AF%8D%E6%8E%92%E5%BA%8F.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E5%8D%95%E8%AF%8D%E6%8E%92%E5%BA%8F.cpp)
+扫雷游戏|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%89%AB%E9%9B%B7%E6%B8%B8%E6%88%8F.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E6%89%AB%E9%9B%B7%E6%B8%B8%E6%88%8F.cpp)
 
 
 ## 第二周
