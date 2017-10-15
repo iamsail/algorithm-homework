@@ -44,15 +44,15 @@
 ## 第二周
 标题|题目|答案
 -|-|-
-棋盘覆盖|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E6%A3%8B%E7%9B%98%E8%A6%86%E7%9B%96.md)|[待更新]()
-有重复元素的排列问题|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E6%9C%89%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%E7%9A%84%E6%8E%92%E5%88%97%E9%97%AE%E9%A2%98.md)|[待更新]()
-求第k小|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E6%B1%82%E7%AC%ACk%E5%B0%8F.md)|[待更新]()
-快速幂|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%BF%AB%E9%80%9F%E5%B9%82.md)|[待更新]()
-字符全排列|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%AD%97%E7%AC%A6%E5%85%A8%E6%8E%92%E5%88%97.md)|[待更新]()
-快排算法|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%BF%AB%E6%8E%92%E7%AE%97%E6%B3%95.md)|[待更新]()
-内部收益率|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%86%85%E9%83%A8%E6%94%B6%E7%9B%8A%E7%8E%87.md)|[待更新]()
-奶牛的聚会|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%A5%B6%E7%89%9B%E7%9A%84%E8%81%9A%E4%BC%9A.md)|[待更新]()
-光合作用|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8.md)|[待更新]()
+棋盘覆盖|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E6%A3%8B%E7%9B%98%E8%A6%86%E7%9B%96.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E6%A3%8B%E7%9B%98%E8%A6%86%E7%9B%96.cpp)
+有重复元素的排列问题|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E6%9C%89%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%E7%9A%84%E6%8E%92%E5%88%97%E9%97%AE%E9%A2%98.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E6%9C%89%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%E7%9A%84%E6%8E%92%E5%88%97%E9%97%AE%E9%A2%98.cpp)
+求第k小|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E6%B1%82%E7%AC%ACk%E5%B0%8F.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E6%B1%82%E7%AC%ACk%E5%B0%8F.cpp)
+快速幂|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%BF%AB%E9%80%9F%E5%B9%82.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E5%BF%AB%E9%80%9F%E5%B9%82.cpp)
+字符全排列|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%AD%97%E7%AC%A6%E5%85%A8%E6%8E%92%E5%88%97.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E5%AD%97%E7%AC%A6%E5%85%A8%E6%8E%92%E5%88%97.cpp)
+快排算法|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%BF%AB%E6%8E%92%E7%AE%97%E6%B3%95.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E5%BF%AB%E6%8E%92%E7%AE%97%E6%B3%95.cpp)
+内部收益率|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%86%85%E9%83%A8%E6%94%B6%E7%9B%8A%E7%8E%87.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E5%86%85%E9%83%A8%E6%94%B6%E7%9B%8A%E7%8E%87.cpp)
+奶牛的聚会|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%A5%B6%E7%89%9B%E7%9A%84%E8%81%9A%E4%BC%9A.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E5%A5%B6%E7%89%9B%E7%9A%84%E8%81%9A%E4%BC%9A.cpp)
+光合作用|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8.cpp)
 园艺布置|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E5%9B%AD%E8%89%BA%E5%B8%83%E7%BD%AE.md)|[待更新]()
 
 *******************
