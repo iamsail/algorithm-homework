@@ -74,16 +74,16 @@
 ## 作业3
 标题|题目|答案
 -|-|-
-沙子的质量|[题目]()|[待更新]()
-最长共公子串|[题目]()|[待更新]()
-三角形的路径权|[题目]()|[待更新]()
-跳跃游戏二|[题目]()|[待更新]()
-求数组的最长递减子序列|[题目]()|[待更新]()
-区间包含|[题目]()|[待更新]()
-淘宝流量分配|[题目]()|[待更新]()
-腾讯的一笔画游戏|[题目]()|[待更新]()
-跳跃游戏|[题目]()|[待更新]()
-纪念品分组|[题目]()|[待更新]()
+沙子的质量|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E6%B2%99%E5%AD%90%E7%9A%84%E8%B4%A8%E9%87%8F.md)|[待更新]()
+最长共公子串|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E6%9C%80%E9%95%BF%E5%85%B1%E5%85%AC%E5%AD%90%E4%B8%B2.md)|[待更新]()
+三角形的路径权|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%B7%AF%E5%BE%84%E6%9D%83.md)|[待更新]()
+跳跃游戏二|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%E4%BA%8C.md)|[待更新]()
+求数组的最长递减子序列|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E6%B1%82%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%87%8F%E5%AD%90%E5%BA%8F%E5%88%97.md)|[待更新]()
+区间包含|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E5%8C%BA%E9%97%B4%E5%8C%85%E5%90%AB.md)|[待更新]()
+淘宝流量分配|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E6%B7%98%E5%AE%9D%E6%B5%81%E9%87%8F%E5%88%86%E9%85%8D.md)|[待更新]()
+腾讯的一笔画游戏|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E8%85%BE%E8%AE%AF%E7%9A%84%E4%B8%80%E7%AC%94%E7%94%BB%E6%B8%B8%E6%88%8F.md)|[待更新]()
+跳跃游戏|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)|[待更新]()
+纪念品分组|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theThirdWeek/%E7%BA%AA%E5%BF%B5%E5%93%81%E5%88%86%E7%BB%84.md)|[待更新]()
 
 
 *******************
