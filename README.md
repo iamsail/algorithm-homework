@@ -26,7 +26,7 @@
 
 - **受能力所限,不一定每一题都能给出题解,没有做出来的题目,会在以下列表中特别标注。**
 
-## 第一周
+## 作业1
 标题|题目|答案
 -|-|-
 判断日期是否符合格式|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E5%88%A4%E6%96%AD%E6%97%A5%E6%9C%9F%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E6%A0%BC%E5%BC%8F.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E5%88%A4%E6%96%AD%E6%97%A5%E6%9C%9F%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E6%A0%BC%E5%BC%8F.cpp)
@@ -41,7 +41,7 @@
 扫雷游戏|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFirstWeek/%E6%89%AB%E9%9B%B7%E6%B8%B8%E6%88%8F.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theFirstWeek/%E6%89%AB%E9%9B%B7%E6%B8%B8%E6%88%8F.cpp)
 
 
-## 第二周
+## 作业2
 标题|题目|答案
 -|-|-
 棋盘覆盖|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theSecondWeek/%E6%A3%8B%E7%9B%98%E8%A6%86%E7%9B%96.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/theSecondWeek/%E6%A3%8B%E7%9B%98%E8%A6%86%E7%9B%96.cpp)
@@ -68,6 +68,25 @@
 草药的价值|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E8%8D%89%E8%8D%AF%E7%9A%84%E4%BB%B7%E5%80%BC.md)|[待更新]()
 节食的限制|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E8%8A%82%E9%A3%9F%E7%9A%84%E9%99%90%E5%88%B6.md)|[待更新]()
 汽车费用|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E6%B1%BD%E8%BD%A6%E8%B4%B9%E7%94%A8.md)|[待更新]()
+
+*******************
+
+
+## 作业3
+标题|题目|答案
+-|-|-
+
+沙子的质量|[题目]()|[待更新]()
+最长共公子串|[题目]()|[待更新]()
+三角形的路径权|[题目]()|[待更新]()
+跳跃游戏二|[题目]()|[待更新]()
+求数组的最长递减子序列|[题目]()|[待更新]()
+区间包含|[题目]()|[待更新]()
+淘宝流量分配|[题目]()|[待更新]()
+腾讯的一笔画游戏|[题目]()|[待更新]()
+跳跃游戏|[题目]()|[待更新]()
+纪念品分组|[题目]()|[待更新]()
+
 
 *******************
 
