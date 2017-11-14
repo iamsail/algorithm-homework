@@ -91,14 +91,14 @@
 ## 作业4
 标题|题目|答案
 -|-|-
-最大子阵列|[题目]()|[答案]()
-三值排序|[题目]()|[答案]()
-法师康的工人|[题目]()|[答案]()
-Home Work|[题目]()|[答案]()
-纪念品分组|[题目]()|[答案]()
-配对元素|[题目]()|[答案]()
-八皇后问题|[题目]()|[答案]()
-2n皇后问题|[题目]()|[答案]()
+最大子阵列|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/%E6%9C%80%E5%A4%A7%E5%AD%90%E9%98%B5%E5%88%97.md)|[答案]()
+三值排序|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/%E4%B8%89%E5%80%BC%E6%8E%92%E5%BA%8F.md)|[答案]()
+法师康的工人|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/%E6%B3%95%E5%B8%88%E5%BA%B7%E7%9A%84%E5%B7%A5%E4%BA%BA.md)|[答案]()
+Home Work|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/HOmeWork.md)|[答案]()
+纪念品分组|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/%E7%BA%AA%E5%BF%B5%E5%93%81%E5%88%86%E7%BB%84.md)|[答案]()
+配对元素|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/%E9%85%8D%E5%AF%B9%E5%85%83%E7%B4%A0.md)|[答案]()
+八皇后问题|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/%E5%85%AB%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.md)|[答案]()
+2n皇后问题|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/theFourthWeek/2n%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.md)|[答案]()
 
 *******************
 
