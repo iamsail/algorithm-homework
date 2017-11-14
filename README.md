@@ -58,16 +58,16 @@
 ## 实验一,二
 标题|题目|答案
 -|-|-
-简单斐波那契|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%AE%80%E5%8D%95%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.md)|[待更新]()
-移除数组中的重复元素|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%A7%BB%E9%99%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)|[待更新]()
-两数之和|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)|[待更新]()
-矩阵翻转|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%9F%A9%E9%98%B5%E7%BF%BB%E8%BD%AC.md)|[待更新]()
-排序后的数组删除重复数字|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%A7%BB%E9%99%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)|[待更新]()
-字母排序|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E5%AD%97%E6%AF%8D%E6%8E%92%E5%BA%8F.md)|[待更新]()
-矩形滑雪场|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%9F%A9%E5%BD%A2%E6%BB%91%E9%9B%AA%E5%9C%BA.md)|[待更新]()
-草药的价值|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E8%8D%89%E8%8D%AF%E7%9A%84%E4%BB%B7%E5%80%BC.md)|[待更新]()
-节食的限制|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E8%8A%82%E9%A3%9F%E7%9A%84%E9%99%90%E5%88%B6.md)|[待更新]()
-汽车费用|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E6%B1%BD%E8%BD%A6%E8%B4%B9%E7%94%A8.md)|[待更新]()
+简单斐波那契|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%AE%80%E5%8D%95%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E7%AE%80%E5%8D%95%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.cpp)
+移除数组中的重复元素|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%A7%BB%E9%99%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E7%A7%BB%E9%99%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp)
+两数之和|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)
+矩阵翻转|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%9F%A9%E9%98%B5%E7%BF%BB%E8%BD%AC.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E7%9F%A9%E9%98%B5%E7%BF%BB%E8%BD%AC.cpp)
+排序后的数组删除重复数字|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%A7%BB%E9%99%A4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E6%8E%92%E5%BA%8F%E5%90%8E%E7%9A%84%E6%95%B0%E7%BB%84%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E6%95%B0%E5%AD%97.cpp)
+字母排序|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E5%AD%97%E6%AF%8D%E6%8E%92%E5%BA%8F.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E5%AD%97%E6%AF%8D%E6%8E%92%E5%BA%8F.cpp)
+矩形滑雪场|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E7%9F%A9%E5%BD%A2%E6%BB%91%E9%9B%AA%E5%9C%BA.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E7%9F%A9%E5%BD%A2%E6%BB%91%E9%9B%AA%E5%9C%BA.cpp)
+草药的价值|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E8%8D%89%E8%8D%AF%E7%9A%84%E4%BB%B7%E5%80%BC.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E8%8D%89%E8%8D%AF%E7%9A%84%E4%BB%B7%E5%80%BC.cpp)
+节食的限制|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E8%8A%82%E9%A3%9F%E7%9A%84%E9%99%90%E5%88%B6.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E8%8A%82%E9%A3%9F%E7%9A%84%E9%99%90%E5%88%B6.cpp)
+汽车费用|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentOne-Tow/%E6%B1%BD%E8%BD%A6%E8%B4%B9%E7%94%A8.md)|[答案](https://github.com/iamsail/algorithm-homework/blob/master/answer/experimentOne-Tow/%E6%B1%BD%E8%BD%A6%E8%B4%B9%E7%94%A8.cpp)
 
 *******************
 
