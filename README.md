@@ -110,7 +110,7 @@ Home Work|[题目](https://github.com/iamsail/algorithm-homework/blob/master/que
 德克萨斯长角牛|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentThree-Four/%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E9%95%BF%E8%A7%92%E7%89%9B.md)|[答案]()
 灌溉|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentThree-Four/%E7%81%8C%E6%BA%89.md)|[答案]()
 组合运算式|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentThree-Four/%E7%BB%84%E5%90%88%E8%BF%90%E7%AE%97%E5%BC%8F.md)|[答案]()
-无脑博士的试管们|[题目]()|[答案]()
+无脑博士的试管们|[题目](https://github.com/iamsail/algorithm-homework/blob/master/question/experimentThree-Four/%E6%97%A0%E8%84%91%E5%8D%9A%E5%A3%AB%E7%9A%84%E8%AF%95%E7%AE%A1%E4%BB%AC.md)|[答案]()
 
 *******************
 
