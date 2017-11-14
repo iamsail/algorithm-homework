@@ -102,6 +102,18 @@ Home Work|[题目](https://github.com/iamsail/algorithm-homework/blob/master/que
 
 *******************
 
+## 实验三,四
+标题|题目|答案
+-|-|-
+渊子赛马|[题目]()|[答案]()
+守望者的逃离|[题目]()|[答案]()
+德克萨斯长角牛|[题目]()|[答案]()
+灌溉|[题目]()|[答案]()
+组合运算式|[题目]()|[答案]()
+无脑博士的试管们|[题目]()|[答案]()
+
+*******************
+
 # License
 
 **[MIT](https://github.com/iamsail/algorithm-homework/blob/master/LICENSE)**
